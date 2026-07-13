@@ -4,8 +4,8 @@
   "website": "https://tavusy.com",
   "deployments": [
     {
-      "label": "LOCAL-TEST — replace fingerprint via scripts/sync_local_fingerprint.sh",
-      "fingerprint": "REPLACE_ME",
+      "label": "LOCAL-TEST \u2014 this machine",
+      "fingerprint": "3f7aa52f0a0afb6dfe12d6966ceacdafce614170c4b64864cc2a2fde314bccca",
       "ips": [],
       "max_installs": 2
     }
