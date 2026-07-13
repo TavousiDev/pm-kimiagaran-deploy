@@ -1,0 +1,13 @@
+{
+  "product": "pm_kimiagaran_v1",
+  "publisher": "Mohamadreza Tavousi",
+  "website": "https://tavusy.com",
+  "deployments": [
+    {
+      "label": "LOCAL-TEST — replace fingerprint via scripts/sync_local_fingerprint.sh",
+      "fingerprint": "REPLACE_ME",
+      "ips": [],
+      "max_installs": 2
+    }
+  ]
+}
