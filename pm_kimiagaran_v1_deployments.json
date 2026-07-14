@@ -4,8 +4,14 @@
   "website": "https://tavusy.com",
   "deployments": [
     {
-      "label": "LOCAL-TEST \u2014 this machine",
+      "label": "LOCAL-TEST — this machine (test DB)",
       "fingerprint": "3f7aa52f0a0afb6dfe12d6966ceacdafce614170c4b64864cc2a2fde314bccca",
+      "ips": [],
+      "max_installs": 2
+    },
+    {
+      "label": "Fresh local install test",
+      "fingerprint": "55d58df751d6047cad0e01d1ac469647eb39f5b4303e5eb0aec26cdac133abc5",
       "ips": [],
       "max_installs": 2
     }
