@@ -5,8 +5,8 @@
   "deployments": [
     {
       "label": "Production — erpkimiagaran.ir",
-      "fingerprint": "",
-      "ips": ["37.255.239.25"],
+      "fingerprint": "ebf426e833e7a200d8102eca0bb79a1536b8767748afa6f0ba66b14e90b3a7ff",
+      "ips": [],
       "max_installs": 2
     }
   ]
