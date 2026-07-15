@@ -14,6 +14,12 @@
       "fingerprint": "55d58df751d6047cad0e01d1ac469647eb39f5b4303e5eb0aec26cdac133abc5",
       "ips": [],
       "max_installs": 2
+    },
+    {
+      "label": "Production — erpkimiagaran.ir",
+      "fingerprint": "",
+      "ips": ["37.255.239.25"],
+      "max_installs": 2
     }
   ]
 }
