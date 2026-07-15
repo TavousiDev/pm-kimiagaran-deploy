@@ -1,0 +1,13 @@
+{
+  "product": "attendance_network_security",
+  "publisher": "Mohamadreza Tavousi",
+  "website": "https://tavusy.com",
+  "deployments": [
+    {
+      "label": "Production — erpkimiagaran.ir",
+      "fingerprint": "",
+      "ips": ["37.255.239.25"],
+      "max_installs": 2
+    }
+  ]
+}
