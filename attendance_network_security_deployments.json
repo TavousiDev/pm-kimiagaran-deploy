@@ -4,8 +4,14 @@
   "website": "https://tavusy.com",
   "deployments": [
     {
-      "label": "Production — erpkimiagaran.ir",
+      "label": "Production — erpkimiagaran.ir (DB 1)",
       "fingerprint": "ebf426e833e7a200d8102eca0bb79a1536b8767748afa6f0ba66b14e90b3a7ff",
+      "ips": [],
+      "max_installs": 2
+    },
+    {
+      "label": "Production — erpkimiagaran.ir (DB 2)",
+      "fingerprint": "b0ac507648d9dffc8d10339f6c07cc29b69cae8c1153b890eca81b48b70b8b5c",
       "ips": [],
       "max_installs": 2
     }
