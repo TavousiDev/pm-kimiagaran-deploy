@@ -16,6 +16,12 @@
       "max_installs": 2
     },
     {
+      "label": "Production — erpkimiagaran.ir (new DB)",
+      "fingerprint": "f031f758b5165f027ee2d13de02a6751b37fdcb158ff0a38b37ffd4b50c7e014",
+      "ips": [],
+      "max_installs": 2
+    },
+    {
       "label": "Production — erpkimiagaran.ir",
       "fingerprint": "065703ec70a1c17ff29f68716e524a24fd586d6e9458356cd8fcbeddf344688b",
       "ips": [],
