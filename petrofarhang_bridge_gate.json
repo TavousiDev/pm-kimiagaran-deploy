@@ -1,0 +1,4 @@
+{
+  "passkey_sha256": "a98e18dfa4e47b9cbdc123c60d747f1870958a333a40fc26114d4952c3e57dc0",
+  "note": "hash only — never store plaintext here"
+}
